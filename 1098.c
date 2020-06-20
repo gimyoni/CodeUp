@@ -2,7 +2,7 @@
 
 int main()
 {
-    int a[101][101];  //[세로][가로]
+    int a[101][101];  
 
     int h, w, n, l, d, x, y;
 
