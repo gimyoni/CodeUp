@@ -1,9 +1,9 @@
 #include <stdio.h>
 
-int main(void){
+int main(){
 
     for(int i = 1; i<=100; i++){
-        printf(i+" ");
+        printf("%d ", i);
     }
 
 }
