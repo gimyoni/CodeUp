@@ -1,3 +1,3 @@
-a = int(input().split())
+a = int(input())
 if a <10:
-    print(small)
+    print("small")
